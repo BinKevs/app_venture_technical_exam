@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/app_venture_technical_exam/static/css/main.2f0ef01d.css",
+    "main.js": "/app_venture_technical_exam/static/js/main.93a9e119.js",
+    "static/js/787.7678bb16.chunk.js": "/app_venture_technical_exam/static/js/787.7678bb16.chunk.js",
+    "index.html": "/app_venture_technical_exam/index.html",
+    "main.2f0ef01d.css.map": "/app_venture_technical_exam/static/css/main.2f0ef01d.css.map",
+    "main.93a9e119.js.map": "/app_venture_technical_exam/static/js/main.93a9e119.js.map",
+    "787.7678bb16.chunk.js.map": "/app_venture_technical_exam/static/js/787.7678bb16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f0ef01d.css",
+    "static/js/main.93a9e119.js"
+  ]
+}
