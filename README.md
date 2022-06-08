@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# Instructions
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Please fork this Sandbox and work on the Challenge stated below on your copy.
 
-## Available Scripts
+# Challenge
 
-In the project directory, you can run:
+Create and display any 2 of these 4 components
+https://cdn.dribbble.com/users/1544818/screenshots/17675070/media/3550d2db04b2153b3383b26ba2af29ee.png
 
-### `npm start`
+You may make them interactable as you wish, demonstrating your knowledge to the best of your abilities
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Use these endpoints for mock data:
+Products
+https://sw-coding-challenge.herokuapp.com/api/v1/products
+Notifications
+https://sw-coding-challenge.herokuapp.com/api/v1/notifications
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Authorization:
+Add an `Authorization` header to your requests using this token:
 
-### `npm test`
+`Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkNvZGVyIn0.B1QyKzKxzpxay1__A8B85ij32rqFoOIAFGDqBmqXhvs`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Submission
 
-### `npm run build`
+After completing the challenge, please fill up the form below and share a link of your work to jc@smartwave.ph
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+** Name: Buenaseda, Kevin Bryan P. **
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+** Comments: ** Any comments on the decisions you made regarding your code that you would like us to know (ex. if you installed packages, why did you choose to use the ones that you did).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+TailwindCSS for styling
+axios for fetching
 
-### `npm run eject`
+# Recommendations
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Feel free to ask questions (jc@smartwave.ph) if any instruction is unclear.
+- Focus on readability and consistency.
+- Submit your work even if you don't complete the challenge, we're happy to take a look at it and give constructive feedback.
